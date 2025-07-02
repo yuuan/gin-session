@@ -1,4 +1,4 @@
-module github.com/go-session/gin-session
+module github.com/go-session/gin-session/v3
 
 go 1.19
 
